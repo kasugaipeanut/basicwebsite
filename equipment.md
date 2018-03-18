@@ -1,3 +1,8 @@
+---
+layout: page
+title: blah title
+---
+
 ## Tools
 
 ### Minor Enhancements
