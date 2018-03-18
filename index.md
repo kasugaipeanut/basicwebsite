@@ -7,7 +7,9 @@
 #
 layout: home
 ---
+
 ## Things
 
 [Place 1](https://kasugaipeanut.github.io/photos/)
+
 [Place 2](https://kasugaipeanut.github.io/photos/)
