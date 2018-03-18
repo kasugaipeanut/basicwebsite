@@ -10,5 +10,6 @@ layout: home
 ## Things
 
 ## [Place 1](https://kasugaipeanut.github.io/photos/)
+May 20th, 2016
 
 ## [Place 2](https://kasugaipeanut.github.io/photos/)
