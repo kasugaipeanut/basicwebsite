@@ -1,6 +1,6 @@
-name: Dat site title tho
+name: Kamoshika's website
 markdown: redcarpet
 pygments: true
-description: "Write an awesome description for your new site here. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
-url: "jekyll-new.joelglovier.com"
+description: "Kamoshika's stuff."
+url: "https://kasugaipeanut.github.io/basicwebsite/"
 permalink: /posts/:title
