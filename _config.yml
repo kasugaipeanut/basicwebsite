@@ -1,8 +1,0 @@
-name: Kamoshika's website
-markdown: redcarpet
-pygments: true
-description: "Kamoshika's stuff."
-url: "https://kasugaipeanut.github.io/basicwebsite/"
-permalink: /posts/:title
-
-theme: jekyll-theme-minimal
