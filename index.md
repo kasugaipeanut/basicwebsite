@@ -7,3 +7,9 @@
 #
 layout: home
 ---
+
+# heading
+## heading 2
+### heading 3 title
+#### heading 4
+no heading
