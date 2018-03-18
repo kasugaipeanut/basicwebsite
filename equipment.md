@@ -1,9 +1,7 @@
 ---
 layout: page
-title: blah title
+title: Tools
 ---
-
-## Tools
 
 ### Minor Enhancements
 
