@@ -7,9 +7,7 @@
 #
 layout: home
 ---
+## Things
 
-# heading
-## heading 2
-### heading 3 title
-#### heading 4
-no heading
+[Place 1](https://kasugaipeanut.github.io/photos/)
+[Place 2](https://kasugaipeanut.github.io/photos/)
